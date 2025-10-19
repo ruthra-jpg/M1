@@ -11,7 +11,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 ```
-#include <stdio.h>
+#include <stdio.h> 
 int main()
 {
     char c1,c2,c3;
