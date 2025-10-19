@@ -10,6 +10,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {
@@ -19,7 +20,7 @@ int main()
     return 0;
 }
     
-
+```
 ## OUTPUT:
 ![WhatsApp Image 2025-10-19 at 15 19 31_b79e7ee5](https://github.com/user-attachments/assets/16f53293-a109-4abc-86df-985d68919f69)
 
